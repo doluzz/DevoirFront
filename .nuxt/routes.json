@@ -1,0 +1,26 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\Dorian\\\\Desktop\\\\Ecole 2021-2022\\\\Developpement Front\\\\Projet\\\\devoir2\\\\Dorian Auneau\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Dorian\\\\Desktop\\\\Ecole 2021-2022\\\\Developpement Front\\\\Projet\\\\devoir2\\\\Dorian Auneau\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Dorian\\\\Desktop\\\\Ecole 2021-2022\\\\Developpement Front\\\\Projet\\\\devoir2\\\\Dorian Auneau\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index"
+  },
+  {
+    "name": "dashboard-users-slug",
+    "path": "/dashboard/users/:slug?",
+    "component": "C:\\\\Users\\\\Dorian\\\\Desktop\\\\Ecole 2021-2022\\\\Developpement Front\\\\Projet\\\\devoir2\\\\Dorian Auneau\\\\pages\\\\dashboard\\\\users\\\\_slug.vue",
+    "chunkName": "pages/dashboard/users/_slug"
+  }
+]
